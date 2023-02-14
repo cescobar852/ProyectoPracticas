@@ -18,3 +18,23 @@ D:\Proyectos c#\ensayo\obj\Debug\ensayo.csproj.CoreCompileInputs.cache
 D:\Proyectos c#\ensayo\obj\Debug\ensayo.csproj.CopyComplete
 D:\Proyectos c#\ensayo\obj\Debug\ensayo.exe
 D:\Proyectos c#\ensayo\obj\Debug\ensayo.pdb
+C:\Users\Crist\OneDrive\Documentos\Workspace\ASP.NET\proyectoastrans\bin\Debug\ensayo.exe.config
+C:\Users\Crist\OneDrive\Documentos\Workspace\ASP.NET\proyectoastrans\bin\Debug\ensayo.exe
+C:\Users\Crist\OneDrive\Documentos\Workspace\ASP.NET\proyectoastrans\bin\Debug\ensayo.pdb
+C:\Users\Crist\OneDrive\Documentos\Workspace\ASP.NET\proyectoastrans\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Crist\OneDrive\Documentos\Workspace\ASP.NET\proyectoastrans\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Crist\OneDrive\Documentos\Workspace\ASP.NET\proyectoastrans\bin\Debug\System.Security.Permissions.dll
+C:\Users\Crist\OneDrive\Documentos\Workspace\ASP.NET\proyectoastrans\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Crist\OneDrive\Documentos\Workspace\ASP.NET\proyectoastrans\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Crist\OneDrive\Documentos\Workspace\ASP.NET\proyectoastrans\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Crist\OneDrive\Documentos\Workspace\ASP.NET\proyectoastrans\bin\Debug\System.Security.Permissions.xml
+C:\Users\Crist\OneDrive\Documentos\Workspace\ASP.NET\proyectoastrans\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Crist\OneDrive\Documentos\Workspace\ASP.NET\proyectoastrans\obj\Debug\ensayo.csproj.AssemblyReference.cache
+C:\Users\Crist\OneDrive\Documentos\Workspace\ASP.NET\proyectoastrans\obj\Debug\ensayo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Crist\OneDrive\Documentos\Workspace\ASP.NET\proyectoastrans\obj\Debug\ensayo.Form1.resources
+C:\Users\Crist\OneDrive\Documentos\Workspace\ASP.NET\proyectoastrans\obj\Debug\ensayo.Properties.Resources.resources
+C:\Users\Crist\OneDrive\Documentos\Workspace\ASP.NET\proyectoastrans\obj\Debug\ensayo.csproj.GenerateResource.cache
+C:\Users\Crist\OneDrive\Documentos\Workspace\ASP.NET\proyectoastrans\obj\Debug\ensayo.csproj.CoreCompileInputs.cache
+C:\Users\Crist\OneDrive\Documentos\Workspace\ASP.NET\proyectoastrans\obj\Debug\ensayo.csproj.CopyComplete
+C:\Users\Crist\OneDrive\Documentos\Workspace\ASP.NET\proyectoastrans\obj\Debug\ensayo.exe
+C:\Users\Crist\OneDrive\Documentos\Workspace\ASP.NET\proyectoastrans\obj\Debug\ensayo.pdb

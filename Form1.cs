@@ -4,11 +4,13 @@ using System.ComponentModel;
 using System.Configuration;
 using System.Data;
 using System.Drawing;
+using System.IO;
 using System.Linq;
 using System.ServiceProcess;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using System.Windows.Input;
 
 namespace ensayo
 {
@@ -20,10 +22,27 @@ namespace ensayo
             InitializeComponent();
         }
 
+        //Cambiar valor
         private void button1_Click(object sender, EventArgs e)
         {
-            String SERVICEURL = ConfigurationManager.AppSettings["hola"];
-            MessageBox.Show(SERVICEURL);
+
+            //cambiar atributos de un archivo
+            string path = @"C:\Users\Crist\OneDrive\Documentos\Workspace\ASP.NET\proyectoastrans\Simplexity.AsTrans.RNDC.exe.config";
+            if (!File.Exists(path))
+            {
+                MessageBox.Show("El archivo no existe");
+            }
+
+            FileAttributes attributes = File.GetAttributes(path);
+
+            MessageBox.Show(path);
+
+            
+
+
+
+            //String SERVICEURL = ConfigurationManager.AppSettings["hola"];
+            //MessageBox.Show(SERVICEURL);
         }
 
         private void button2_Click(object sender, EventArgs e)
